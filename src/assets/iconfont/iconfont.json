@@ -1,0 +1,58 @@
+{
+  "id": "2120414",
+  "name": "logo软件",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1170176",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "2116117",
+      "name": "设计经理",
+      "font_class": "shejijingli-",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "2127147",
+      "name": "微笑",
+      "font_class": "Smile",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4171088",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9666185",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "14475141",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "16372310",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    }
+  ]
+}
